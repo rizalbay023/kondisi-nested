@@ -1,0 +1,5 @@
+﻿  Kondisi Nested.cpp
+D:\Project Programming\Visual Studio\Kondisi Nested\Kondisi Nested\Kondisi Nested.cpp(150,18): warning C4244:  'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\Kondisi Nested\Kondisi Nested\Kondisi Nested.cpp(11,16): warning C4101:  'pilih': unreferenced local variable
+D:\Project Programming\Visual Studio\Kondisi Nested\Kondisi Nested\Kondisi Nested.cpp(200,13): warning C4101:  'i': unreferenced local variable
+  Kondisi Nested.vcxproj -> D:\Project Programming\Visual Studio\Kondisi Nested\Debug\Kondisi Nested.exe
